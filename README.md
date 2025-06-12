@@ -1,4 +1,4 @@
-# FPGA Traffic Controller 🚦
+# FPGA-Based Traffic Light Controller with Priority System🚦
 
 This project implements a **Verilog-based Traffic Light Controller** using an FPGA and simulates it on **EDA Playground**.
 
